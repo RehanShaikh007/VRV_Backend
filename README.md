@@ -1,6 +1,6 @@
-# Innobyte Ecommerce Backend
+# VRV Security Backend
 
-This is the backend for the Innobyte Ecommerce application, built using the MERN stack (MongoDB, Express, React, and Node.js). It handles user authentication, product management, and order processing.
+This is the backend for the VRV Security, built using MongoDB, Express.js and Node.js. It handles user authentication, authorization, product management, and order processing.
 
 ## Table of Contents
 
@@ -19,13 +19,13 @@ This is the backend for the Innobyte Ecommerce application, built using the MERN
 1. Clone the repository:
 
 ``` bash
-git clone https://github.com/RehanShaikh007/Innobyte_Backend.git
+git clone https://github.com/RehanShaikh007/VRV_Backend.git
 ```
 
 2. Navigate to the project directory:
 
 ``` bash
-cd Innobyte_Backend
+cd backend
 ```
 
 3. Install the dependencies:
